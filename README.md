@@ -12,6 +12,7 @@ This is a comprehensive Employee Management System built with Go, Fiber, MongoDB
   - [Configuration](#configuration)
   - [Usage](#usage)
 - [Deployment with Kubernetes and Helm](#deployment-with-kubernetes-and-helm)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
