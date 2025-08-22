@@ -20,7 +20,7 @@ var mg Mongoinstance
 
 const dbName = "go_project"
 
-const mongoUrl = "mongodb+srv://vinayakrajqaz:2D21NHXScPrOMp2p@cluster0.gucjl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+const mongoUrl = "MONGODB_URL"
 
 type Employee struct {
 	Id     string  `json:"id,omitempty" bson:"_id,omitempty"`
